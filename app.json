@@ -1,5 +1,5 @@
 {
-  "name": "TG Rename Bot",
+  "name": "F7 FILE RENAME BOT",
   "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -18,19 +18,19 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "6877728462:AAEJi4GNuCbBdakBsUsAxaF0c4dvEDCfmpk"
     },
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your channel Username (without @).. Also Make The Bot Admin In That Channel!! ",
-      "value": ""
+      "value": "f7moviesofficial"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "29817626"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "c530823a3feb1ebfea88b609708384a6"
     },
     "BANNED_USERS": {
       "description": "Id's Of Users Which You don't Want To Use The Bot..",
