@@ -22,7 +22,7 @@
     },
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your channel Username (without @).. Also Make The Bot Admin In That Channel!! ",
-      "value": "f7moviesofficial"
+      "value": "@f7moviesofficial"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
